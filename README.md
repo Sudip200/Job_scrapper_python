@@ -1,2 +1,2 @@
 # Job_scrapper_python
-Script for scraping jobs
+Script for scraping jobsff
